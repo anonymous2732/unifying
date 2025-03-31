@@ -31,7 +31,7 @@ Efficiently representing audio signals in a compressed latent space is critical 
 We plan to release the model weights of our autoencoder after the review process.  
 
 ## Architecture
-Training process of our autoencoder. Transformer modules are represented with \textit{T}, audio embeddings with \textit{A}, learned/summary embeddings with \textit{L}, and mask embeddings with \textit{M}. We represent chunked causal masking with a curved arrow.
+Training process of our autoencoder. Transformer modules are represented with T, audio embeddings with A, learned/summary embeddings with L, and mask embeddings with M. We represent chunked causal masking with a curved arrow.
 <img src="imgs/architecture.png">
 
 ## Comparison Table
